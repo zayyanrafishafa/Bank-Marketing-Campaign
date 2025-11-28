@@ -1,7 +1,7 @@
 ## Bank Marketing Campaign Prediction
 
 This capstone project focuses on predicting whether a bank customer will subscribe to a **term deposit** as part of a marketing campaign.  
-The goal is to help the bank improve its **marketing efficiency**, reduce campaign costs, and focus on **customers with higher conversion potential**.
+The goal is to help the bank improve its **marketing efficiency**, reduce campaign costs, and focus on **customers with higher conversion potential**. Bank relies heavily on depositors or also known as customers in general. These customers are needed so that they will give us better view of what they're capable of. 
 
 ### Objectives
 - Build a predictive model to classify customers who are likely to subscribe to a term deposit.  
@@ -35,5 +35,4 @@ By implementing the model and recommendations:
 
 ---
 
-> In summary, this project transforms raw marketing data into a practical predictive tool that supports **data-driven decision-making**.  
-> The insights gained can guide **future campaigns**, ensuring better customer targeting and higher marketing ROI.
+> In conclusion, this project transforms raw marketing data into a practical predictive tool that supports **data-driven decision-making**. The results, analyses and other information that have been gained can guide **future campaigns**, ensuring better customer targeting and higher marketing ROI.
